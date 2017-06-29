@@ -57,14 +57,14 @@ in the paper, but evaluated on WS353, MTurk and Bib100.
 <img src="figures/word2vec/plot_initialLearningRate_mturk.jpg" width="50%" />
 <img src="figures/word2vec/plot_dimension_mturk.jpg" width="50%" />
 
-<img src="figures/word2vec/plot_negativeSamples_mturk.jpg" width="33%" />
+<img src="figures/word2vec/plot_negativeSamples_mturk.jpg" width="50%" />
 <img src="figures/word2vec/plot_window_mturk.jpg" width="50%" />
 
 #### Bib100
 <img src="figures/word2vec/plot_initialLearningRate_bib100.jpg" width="50%" />
 <img src="figures/word2vec/plot_dimension_bib100.jpg" width="50%" />
 
-<img src="figures/word2vec/plot_negativeSamples_bib100.jpg" width="33%" />
+<img src="figures/word2vec/plot_negativeSamples_bib100.jpg" width="50%" />
 <img src="figures/word2vec/plot_window_bib100.jpg" width="50%" />
 
 
@@ -106,13 +106,13 @@ in the paper, but evaluated on WS353, MTurk and Bib100.
 <img src="figures/line/plot_initialLearningRate_mturk.jpg" width="50%" />
 <img src="figures/line/plot_dimension_mturk.jpg" width="50%" />
 
-<img src="figures/line/plot_negativeSamples_mturk.jpg" width="33%" />
+<img src="figures/line/plot_negativeSamples_mturk.jpg" width="50%" />
 <img src="figures/line/plot_samples_mturk.jpg" width="50%" />
 
 #### Bib100
 <img src="figures/line/plot_initialLearningRate_bib100.jpg" width="50%" />
 <img src="figures/line/plot_dimension_bib100.jpg" width="50%" />
 
-<img src="figures/line/plot_negativeSamples_bib100.jpg" width="33%" />
+<img src="figures/line/plot_negativeSamples_bib100.jpg" width="50%" />
 <img src="figures/line/plot_samples_bib100.jpg" width="50%" />
 
