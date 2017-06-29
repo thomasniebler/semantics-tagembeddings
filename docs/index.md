@@ -45,7 +45,74 @@ or from the corresponding original locations.
 In the following, we will present the results for the experiments performed
 in the paper, but evaluated on WS353, MTurk and Bib100.
 
-### Bib100
-<img src="figures/glove/plot_alpha_xmax_bib100SurfaceBibsonomy.jpg" />
-<img src="figures/glove/plot_alpha_xmax_bib100SurfaceCiteulike.jpg" />
-<img src="figures/glove/plot_alpha_xmax_bib100SurfaceDelicious.jpg" />
+### Word2Vec
+#### WordSimilarity-353
+<img src="figures/word2vec/plot_initialLearningRate_ws353.jpg" width="50%" />
+<img src="figures/word2vec/plot_dimension_ws353.jpg" width="50%" />
+
+<img src="figures/word2vec/plot_negativeSamples_ws353.jpg" width="50%" />
+<img src="figures/word2vec/plot_window_ws353.jpg" width="50%" />
+
+#### MTurk
+<img src="figures/word2vec/plot_initialLearningRate_mturk.jpg" width="50%" />
+<img src="figures/word2vec/plot_dimension_mturk.jpg" width="50%" />
+
+<img src="figures/word2vec/plot_negativeSamples_mturk.jpg" width="33%" />
+<img src="figures/word2vec/plot_window_mturk.jpg" width="50%" />
+
+#### Bib100
+<img src="figures/word2vec/plot_initialLearningRate_bib100.jpg" width="50%" />
+<img src="figures/word2vec/plot_dimension_bib100.jpg" width="50%" />
+
+<img src="figures/word2vec/plot_negativeSamples_bib100.jpg" width="33%" />
+<img src="figures/word2vec/plot_window_bib100.jpg" width="50%" />
+
+
+### GloVe
+#### WordSimilarity-353
+<img src="figures/glove/plot_initialLearningRate_ws353.jpg" width="50%" />
+<img src="figures/glove/plot_dimension_ws353.jpg" width="50%" />
+
+<img src="figures/glove/plot_alpha_xmax_ws353SurfaceBibsonomy.jpg" width="33%" />
+<img src="figures/glove/plot_alpha_xmax_ws353SurfaceCiteulike.jpg" width="33%" />
+<img src="figures/glove/plot_alpha_xmax_ws353SurfaceDelicious.jpg" width="33%" />
+
+#### MTurk
+<img src="figures/glove/plot_initialLearningRate_mturk.jpg" width="50%" />
+<img src="figures/glove/plot_dimension_mturk.jpg" width="50%" />
+
+<img src="figures/glove/plot_alpha_xmax_mturkSurfaceBibsonomy.jpg" width="33%" />
+<img src="figures/glove/plot_alpha_xmax_mturkSurfaceCiteulike.jpg" width="33%" />
+<img src="figures/glove/plot_alpha_xmax_mturkSurfaceDelicious.jpg" width="33%" />
+
+#### Bib100
+<img src="figures/glove/plot_initialLearningRate_bib100.jpg" width="50%" />
+<img src="figures/glove/plot_dimension_bib100.jpg" width="50%" />
+
+<img src="figures/glove/plot_alpha_xmax_bib100SurfaceBibsonomy.jpg" width="33%" />
+<img src="figures/glove/plot_alpha_xmax_bib100SurfaceCiteulike.jpg" width="33%" />
+<img src="figures/glove/plot_alpha_xmax_bib100SurfaceDelicious.jpg" width="33%" />
+
+
+### LINE
+#### WordSimilarity-353
+<img src="figures/line/plot_initialLearningRate_ws353.jpg" width="50%" />
+<img src="figures/line/plot_dimension_ws353.jpg" width="50%" />
+
+<img src="figures/line/plot_negativeSamples_ws353.jpg" width="50%" />
+<img src="figures/line/plot_samples_ws353.jpg" width="50%" />
+
+#### MTurk
+<img src="figures/line/plot_initialLearningRate_mturk.jpg" width="50%" />
+<img src="figures/line/plot_dimension_mturk.jpg" width="50%" />
+
+<img src="figures/line/plot_negativeSamples_mturk.jpg" width="33%" />
+<img src="figures/line/plot_samples_mturk.jpg" width="50%" />
+
+#### Bib100
+<img src="figures/line/plot_initialLearningRate_bib100.jpg" width="50%" />
+<img src="figures/line/plot_dimension_bib100.jpg" width="50%" />
+
+<img src="figures/line/plot_negativeSamples_bib100.jpg" width="33%" />
+<img src="figures/line/plot_samples_bib100.jpg" width="50%" />
+
